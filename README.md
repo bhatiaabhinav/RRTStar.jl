@@ -3,7 +3,7 @@
 Julia implementation of RRT* motion planning algorithm. Only 2D path planning is supported yet.
 
 
-<center><img src="https://bhatiaabhinav.github.io/images/rrtstar.gif" width="300"/></center>
+<center><img src="https://github.com/bhatiaabhinav/RRTStar.jl/blob/main/rrtstar.gif" width="300"/></center>
 
 ## Installation
 
